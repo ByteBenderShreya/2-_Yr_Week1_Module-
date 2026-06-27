@@ -1,4 +1,4 @@
-# 2nd_Yr_Week1_Module-
+# 2nd_Yr_Weekly_Module-
 Second_Year_DSA_Week1_Module  |  C++ Patterms Problems &amp; Solutions
 
 College homework module for Data Structures & Algorithms - 2nd Year.
